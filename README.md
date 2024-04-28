@@ -19,7 +19,7 @@ Website: [andyrift.ru](http://andyrift.ru)
 ### Gamedev
 - [**Sparkly Night**](https://github.com/andyrift/sparkly-night) | [_itch.io_](https://andyrift.itch.io/sparkly-night)
 - **Boring Platformer** | [_itch.io_](https://andyrift.itch.io/boring-platformer)
-- **Paper Bird** | [_RuStore_](https://apps.rustore.ru/app/ru.andyrift.paperbird)
+- **Paper Bird** | [_itch.io_](https://andyrift.itch.io/paper-bird) | [_RuStore_](https://apps.rustore.ru/app/ru.andyrift.paperbird)
 - **Hedgehog**
 
 ### Other
