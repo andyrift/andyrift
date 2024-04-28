@@ -1,10 +1,23 @@
-All my main projects are on this account
+# Introduction
 
-Website: andyrift.ru
+This account is for all of my main project
 
-### Better Text Editor
-### Simple React
-### Lamet
-### Apple Sause
-### Sparkly Night
-### Merge Sort
+_My other account: [github.com/ahrami](github.com/ahrami)_
+
+Website: [andyrift.ru](http://andyrift.ru)
+
+# Projects
+
+### Desktop
+- #### Better Text Editor
+
+### Web
+- #### Simple React
+- #### Lamet
+- #### Apple Sause
+
+### Gamedev
+- #### Sparkly Night
+
+### Other
+- #### Merge Sort
