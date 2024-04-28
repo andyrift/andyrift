@@ -3,9 +3,9 @@
 > This account is for all of my main project<br>
 > _My other account: [github.com/ahrami](https://github.com/ahrami)_
 
-My website: [andyrift.ru](http://andyrift.ru)
+### My website: [andyrift.ru](http://andyrift.ru)
 
-Other platforms: [YouTube]() | [itch.io](https://andyrift.itch.io)
+### Other platforms: [YouTube]() | [itch.io](https://andyrift.itch.io)
 
 # Projects
 
