@@ -17,7 +17,10 @@ Website: [andyrift.ru](http://andyrift.ru)
 - [**Apple Sause**](https://github.com/andyrift/apple-sause)
 
 ### Gamedev
-- [**Sparkly Night**](https://github.com/andyrift/sparkly-night)
+- [**Sparkly Night**](https://github.com/andyrift/sparkly-night) | [_itch.io_](https://andyrift.itch.io/sparkly-night)
+- **Boring Platformer** | [_itch.io_](https://andyrift.itch.io/boring-platformer)
+- **Paper Bird** | [_RuStore_](https://apps.rustore.ru/app/ru.andyrift.paperbird)
+- **Hedgehog**
 
 ### Other
 - [**Merge Sort**](https://github.com/andyrift/merge-sort)
