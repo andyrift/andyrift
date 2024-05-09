@@ -35,6 +35,13 @@
 
 - **Hedgehog**
 
+### IoT
+- **Home Lighting System** <br>
+[GitHub](https://github.com/andyrift/home-lighting-system)
+
+- **Home Lighting App** <br>
+[GitHub](https://github.com/andyrift/home-lighting-app)
+
 ### Other
 - **Merge Sort** <br>
 [GitHub](https://github.com/andyrift/merge-sort)
