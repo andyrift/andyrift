@@ -17,10 +17,10 @@
 - **Simple React** <br>
 [GitHub](https://github.com/andyrift/simple-react)
 
-- **Lamet** <br>
+- **Trend Aggregator (with chat)** <br>
 [GitHub](https://github.com/andyrift/lamet)
 
-- **Apple Sause** <br>
+- **Apple Sause Marketplace** <br>
 [GitHub](https://github.com/andyrift/apple-sause)
 
 ### Gamedev
