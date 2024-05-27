@@ -13,6 +13,9 @@
 - **Better Text Editor** <br>
 [GitHub](https://github.com/andyrift/better-text-editor)
 
+- **Book Database** <br>
+[GitHub](https://github.com/andyrift/book-database)
+
 ### Web
 - **Simple React** <br>
 [GitHub](https://github.com/andyrift/simple-react)
