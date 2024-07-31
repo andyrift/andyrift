@@ -12,9 +12,6 @@
 ### Desktop
 - **Better Text Editor** <br>
 
-- **Book Database** <br>
-[GitHub](https://github.com/andyrift/book-database)
-
 ### Web
 - **Simple React** <br>
 [GitHub](https://github.com/andyrift/simple-react)
