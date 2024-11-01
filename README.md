@@ -2,6 +2,7 @@
 
 > This account is for all of my main project<br>
 > _My other account: [github.com/ahrami](https://github.com/ahrami)_
+> _My gitlab account: [gitlab.com/andyrift](https://gitlab.com/andyrift)_
 
 ### My website: [andyrift.ru](http://andyrift.ru)
 
@@ -13,8 +14,8 @@
 - **Better Text Editor** <br>
 
 ### Web
-- **Simple React** <br>
-[GitHub](https://github.com/andyrift/simple-react)
+- **Rust Notes API** <br>
+[GitHub](https://github.com/andyrift/rs-notes)
 
 - **Trend Aggregator (with chat)** <br>
 [GitHub](https://github.com/andyrift/lamet)
