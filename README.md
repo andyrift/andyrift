@@ -1,48 +1,59 @@
-# Introduction
+# Readme 📖
 
-> This account is for all of my main project<br>
-> _My other account: [github.com/ahrami](https://github.com/ahrami)_
-> _My gitlab account: [gitlab.com/andyrift](https://gitlab.com/andyrift)_
+> This is my main GitHub account<br>
+> _My other GitHub account: [github.com/ahrami](https://github.com/ahrami)_<br>
+> _My GitLab account: [gitlab.com/andyrift](https://gitlab.com/andyrift)_<br>
+> Other platforms: [itch.io](https://andyrift.itch.io)
 
-### My website: [andyrift.ru](http://andyrift.ru)
+### My Website: [**andyrift.ru**](https://andyrift.ru)
 
-### Other platforms: [YouTube]() | [itch.io](https://andyrift.itch.io)
+# Projects 💻
 
-# Projects
+### Rust ⚡
 
-### Desktop
-- **Better Text Editor** <br>
-
-### Web
-- **Rust Notes API** <br>
+- **Online Notes API** (Axum, PostgreSQL, JWT)<br>
 [GitHub](https://github.com/andyrift/rs-notes)
 
-- **Trend Aggregator (with chat)** <br>
+- **Word Counter** <br>
+[GitLab](https://gitlab.com/andyrift/rs-count)
+
+- **Fuzzy File Opener** <br>
+[GitLab](https://gitlab.com/andyrift/fuzzy-open)
+
+### Full Stack Web Apps 🌐
+
+- **Trend Aggregator with WebSocket Chat** (React, Express.js, Modgo DB, OAuth) <br>
 [GitHub](https://github.com/andyrift/lamet)
 
-- **Apple Sause Marketplace** <br>
+- **Marketplace** (raw JavaScript, Express.js, PostgreSQL, JWT)<br>
 [GitHub](https://github.com/andyrift/apple-sause)
 
-### Gamedev
-- **Sparkly Night** <br>
-[GitHub](https://github.com/andyrift/sparkly-night) | [_itch.io_](https://andyrift.itch.io/sparkly-night)
+### Desktop 🖥️
+- **Text Editor** (Vue, Electron, TypeScript) <br>
+[GitHub](https://github.com/andyrift/better-text-editor)
 
-- **Boring Platformer** <br>
-[_itch.io_](https://andyrift.itch.io/boring-platformer)
+### Gamedev 🎮
 
-- **Paper Bird** <br>
+- **Paper Bird** (Godot, GDScript) <br>
 [_itch.io_](https://andyrift.itch.io/paper-bird) | [_RuStore_](https://apps.rustore.ru/app/ru.andyrift.paperbird)
 
-- **Hedgehog**
+- **Sparkly Night** (Unity) <br>
+[GitHub](https://github.com/andyrift/sparkly-night) | [_itch.io_](https://andyrift.itch.io/sparkly-night)
 
-### IoT
-- **Home Lighting System** <br>
+- **Boring Platformer** (Unity) <br>
+[_itch.io_](https://andyrift.itch.io/boring-platformer)
+
+- **Hedgehog** (Unity) <br>
+[GitHub](https://github.com/ahrami/hedgehog)
+
+### IoT 🔌
+- **Home Lighting System** (esp32) <br>
 [GitHub](https://github.com/andyrift/home-lighting-system)
 
-- **Home Lighting App** <br>
+- **Home Lighting App** (Unity) <br>
 [GitHub](https://github.com/andyrift/home-lighting-app)
 
-### Other
-- **Merge Sort** <br>
+### Other 📋
+- **Merge Sort Empyrical Analisys** (C++, Python)<br>
 [GitHub](https://github.com/andyrift/merge-sort)
 
