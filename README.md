@@ -11,7 +11,7 @@
 
 ### ⚡ Rust
 
-- **Online Notes API** (`Axum`, `PostgreSQL`)<br>
+- **Online Notes API** (`Axum`, `SQLx`, `PostgreSQL`)<br>
 -> [Repo (GitHub)](https://github.com/andyrift/rs-notes)
 
 - **Word Counter**<br>
@@ -29,10 +29,11 @@
 -> [Repo (GitHub)](https://github.com/andyrift/apple-sause)
 
 ### 🖥️ Desktop
+
 - **Text Editor** (`Vue`, `Electron`, `TypeScript`)<br>
 -> [Repo (GitHub)](https://github.com/andyrift/better-text-editor)
 
-### 🎮 Gamedev
+### 🕹️ Gamedev
 
 - **Paper Bird** (`Godot`, `GDScript`)<br>
 -> [_itch.io_](https://andyrift.itch.io/paper-bird) | [_RuStore_](https://apps.rustore.ru/app/ru.andyrift.paperbird)
@@ -47,6 +48,7 @@
 -> [Repo (GitHub)](https://github.com/ahrami/hedgehog)
 
 ### 🔌 IoT
+
 - **Home Lighting System** (`esp32`)<br>
 -> [Repo (GitHub)](https://github.com/andyrift/home-lighting-system)
 
