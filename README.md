@@ -11,7 +11,7 @@
 
 ### ⚡ Rust
 
-- **Online Notes API** _(`Axum`, `PostgreSQL`)_<br>
+- **Online Notes API** (`Axum`, `PostgreSQL`)<br>
 [GitHub](https://github.com/andyrift/rs-notes)
 
 - **Word Counter** <br>
@@ -22,38 +22,38 @@
 
 ### 🌐 Full Stack Web Apps
 
-- **Trend Aggregator with WebSocket Chat** _(`React`, `Express.js`, `Modgo DB`, `OAuth`)_<br>
+- **Trend Aggregator with WebSocket Chat** (`React`, `Express.js`, `Modgo DB`, `OAuth`)<br>
 [GitHub](https://github.com/andyrift/lamet)
 
-- **Marketplace** _(`JavaScript`, `Express.js`, `PostgreSQL`)_<br>
+- **Marketplace** (`JavaScript`, `Express.js`, `PostgreSQL`)<br>
 [GitHub](https://github.com/andyrift/apple-sause)
 
 ### 🖥️ Desktop
-- **Text Editor** (Vue, Electron, TypeScript) <br>
+- **Text Editor** (`Vue`, `Electron`, `TypeScript`)<br>
 [GitHub](https://github.com/andyrift/better-text-editor)
 
 ### 🎮 Gamedev
 
-- **Paper Bird** (`Godot`, `GDScript`)_ <br>
+- **Paper Bird** (`Godot`, `GDScript`)<br
 [_itch.io_](https://andyrift.itch.io/paper-bird) | [_RuStore_](https://apps.rustore.ru/app/ru.andyrift.paperbird)
 
-- **Sparkly Night** _(`Unity`)_ <br>
+- **Sparkly Night** (`Unity`)<br>
 [GitHub](https://github.com/andyrift/sparkly-night) | [_itch.io_](https://andyrift.itch.io/sparkly-night)
 
-- **Boring Platformer** _(`Unity`)_ <br>
+- **Boring Platformer** (`Unity`)<br>
 [_itch.io_](https://andyrift.itch.io/boring-platformer)
 
-- **Hedgehog** _(`Unity`)_ <br>
+- **Hedgehog** (`Unity`)<br>
 [GitHub](https://github.com/ahrami/hedgehog)
 
 ### 🔌 IoT
-- **Home Lighting System** _(`esp32`)_ <br>
+- **Home Lighting System** (`esp32`)<br>
 [GitHub](https://github.com/andyrift/home-lighting-system)
 
-- **Home Lighting App** _(`Unity`)_ <br>
+- **Home Lighting App** (`Unity`)<br>
 [GitHub](https://github.com/andyrift/home-lighting-app)
 
 ### 📋 Other
-- **Merge Sort Empyrical Analisys** _(`C++`, `Python`)_<br>
+- **Merge Sort Empyrical Analisys** (`C++`, `Python`)<br>
 [GitHub](https://github.com/andyrift/merge-sort)
 
