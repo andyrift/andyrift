@@ -34,7 +34,7 @@
 
 ### 🎮 Gamedev
 
-- **Paper Bird** (`Godot`, `GDScript`)<br
+- **Paper Bird** (`Godot`, `GDScript`)<br>
 [_itch.io_](https://andyrift.itch.io/paper-bird) | [_RuStore_](https://apps.rustore.ru/app/ru.andyrift.paperbird)
 
 - **Sparkly Night** (`Unity`)<br>
