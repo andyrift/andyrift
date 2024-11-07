@@ -3,7 +3,7 @@
 > This is my main GitHub account<br>
 > _My GitLab account: [gitlab.com/andyrift](https://gitlab.com/andyrift)_<br>
 > _My other GitHub account: [github.com/ahrami](https://github.com/ahrami)_<br>
-> Other platforms: [itch.io](https://andyrift.itch.io)
+> Other platforms: [andyrift.itch.io](https://andyrift.itch.io)
 
 **My Website**: [***andyrift.ru***](https://andyrift.ru)
 
@@ -56,6 +56,7 @@
 -> [Repo (GitHub)](https://github.com/andyrift/home-lighting-app)
 
 ### 📋 Other
+
 - **Merge Sort Empyrical Analisys** (`C++`, `Python`)<br>
 -> [Repo (GitHub)](https://github.com/andyrift/merge-sort)
 
