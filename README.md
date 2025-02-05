@@ -21,7 +21,7 @@ This is my main GitHub account<br>
 - **Fuzzy File Opener**<br>
 -> [Repo (GitLab)](https://gitlab.com/andyrift/fuzzy-open)
 
-### JavaScript
+### 💼 JavaScript
 
 - **Online Notes Frontend**<br>
 -> [Repo (GitHub)](https://github.com/andyrift/js-notes)
