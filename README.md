@@ -1,6 +1,7 @@
 # 📖 Readme
 
-> This is my main GitHub account<br>
+This is my main GitHub account<br>
+
 > _My GitLab account: [gitlab.com/andyrift](https://gitlab.com/andyrift)_<br>
 > _My other GitHub account: [github.com/ahrami](https://github.com/ahrami)_<br>
 > Other platforms: [andyrift.itch.io](https://andyrift.itch.io)
@@ -20,6 +21,11 @@
 - **Fuzzy File Opener**<br>
 -> [Repo (GitLab)](https://gitlab.com/andyrift/fuzzy-open)
 
+### JavaScript
+
+- **Online Notes Frontend**<br>
+-> [Repo (GitHub)](https://github.com/andyrift/js-notes)
+
 ### 🌐 Full Stack Web Apps
 
 - **Trend Aggregator with WebSocket Chat** (`React`, `Express.js`, `ModgoDB`, `OAuth`)<br>
@@ -30,10 +36,10 @@
 
 ### 🖥️ Desktop
 
-- **Text Editor** (`Vue`, `Electron`, `TypeScript`)<br>
+- **Notion-like Text Editor** (`Vue`, `Electron`, `TypeScript`)<br>
 -> [Repo (GitHub)](https://github.com/andyrift/better-text-editor)
 
-### 🕹️ Gamedev
+### 🕹️ Games
 
 - **Paper Bird** (`Godot`, `GDScript`)<br>
 -> [_itch.io_](https://andyrift.itch.io/paper-bird) | [_RuStore_](https://apps.rustore.ru/app/ru.andyrift.paperbird)
