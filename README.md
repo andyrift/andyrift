@@ -1,68 +1,49 @@
 # 📖 Readme
 
-This is my main GitHub account<br>
-
 > _My GitLab account: [gitlab.com/andyrift](https://gitlab.com/andyrift)_<br>
 > _My other GitHub account: [github.com/ahrami](https://github.com/ahrami)_<br>
 > Other platforms: [andyrift.itch.io](https://andyrift.itch.io)
 
-**My Website**: [***andyrift.ru***](https://andyrift.ru)
+**Personal Website**: [***andyrift.ru***](https://andyrift.ru)
 
 # 💻 Projects
 
-### ⚡ Rust
+### ⚡ CLI
 
-- **Online Notes API** (`Axum`, `SQLx`, `PostgreSQL`)<br>
--> [Repo (GitHub)](https://github.com/andyrift/rs-notes)
-
-- **Word Counter**<br>
+- **Word Counter** (`Rust`)<br>
 -> [Repo (GitLab)](https://gitlab.com/andyrift/rs-count)
 
-- **Fuzzy File Opener**<br>
+- **Fuzzy File Opener** (`Rust`)<br>
 -> [Repo (GitLab)](https://gitlab.com/andyrift/fuzzy-open)
 
-### 💼 JavaScript
+### 🌐 Web Apps
 
-- **Online Notes Frontend**<br>
--> [Repo (GitHub)](https://github.com/andyrift/js-notes)
+- **Notes Web API** (`Rust` `Axum` `SQLx` `PostgreSQL`)<br>
+-> [Repo (GitHub)](https://github.com/andyrift/rs-notes)
 
-### 🌐 Full Stack Web Apps
-
-- **Trend Aggregator with WebSocket Chat** (`React`, `Express.js`, `ModgoDB`, `OAuth`)<br>
+- **Trend Aggregator with WebSocket Chat** (`React` `Express.js` `ModgoDB` `OAuth`)<br>
 -> [Repo (GitHub)](https://github.com/andyrift/lamet)
 
-- **Marketplace** (`JavaScript`, `Express.js`, `PostgreSQL`)<br>
+- **Marketplace** (`JavaScript` `Express.js` `PostgreSQL`)<br>
 -> [Repo (GitHub)](https://github.com/andyrift/apple-sause)
 
 ### 🖥️ Desktop
 
-- **Notion-like Text Editor** (`Vue`, `Electron`, `TypeScript`)<br>
+- **Notion-like Text Editor** (`Vue` `Electron` `TypeScript` `ProseMirror`)<br>
 -> [Repo (GitHub)](https://github.com/andyrift/better-text-editor)
 
 ### 🕹️ Games
 
-- **Paper Bird** (`Godot`, `GDScript`)<br>
+- **Paper Bird** (`Godot` `GDScript`)<br>
 -> [_itch.io_](https://andyrift.itch.io/paper-bird) | [_RuStore_](https://apps.rustore.ru/app/ru.andyrift.paperbird)
 
-- **Sparkly Night** (`Unity`)<br>
+- **Sparkly Night** (`Unity` `C#`)<br>
 -> [Repo (GitHub)](https://github.com/andyrift/sparkly-night) | [_itch.io_](https://andyrift.itch.io/sparkly-night)
 
-- **Boring Platformer** (`Unity`)<br>
+- **Boring Platformer** (`Unity` `C#`)<br>
 -> [_itch.io_](https://andyrift.itch.io/boring-platformer)
-
-- **Hedgehog** (`Unity`)<br>
--> [Repo (GitHub)](https://github.com/ahrami/hedgehog)
 
 ### 🔌 IoT
 
-- **Home Lighting System** (`esp32`)<br>
+- **Home Lighting System** (`esp32` `C++`)<br>
 -> [Repo (GitHub)](https://github.com/andyrift/home-lighting-system)
-
-- **Home Lighting App** (`Unity`)<br>
--> [Repo (GitHub)](https://github.com/andyrift/home-lighting-app)
-
-### 📋 Other
-
-- **Merge Sort Empyrical Analisys** (`C++`, `Python`)<br>
--> [Repo (GitHub)](https://github.com/andyrift/merge-sort)
-
