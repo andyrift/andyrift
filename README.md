@@ -21,7 +21,7 @@
 - **Notes Web API** (`Rust` `Axum` `SQLx` `PostgreSQL`)<br>
 -> [Repo (GitHub)](https://github.com/andyrift/rs-notes)
 
-- **Trend Aggregator with WebSocket Chat** (`React` `Express.js` `ModgoDB` `OAuth`)<br>
+- **Trend Aggregator with chatting** (`React` `Express.js` `ModgoDB` `OAuth`)<br>
 -> [Repo (GitHub)](https://github.com/andyrift/lamet)
 
 - **Marketplace** (`JavaScript` `Express.js` `PostgreSQL`)<br>
