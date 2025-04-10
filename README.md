@@ -35,8 +35,8 @@
 `Godot` `GDScript`
 - **Sparkly Night** [GitHub](https://github.com/andyrift/sparkly-night) | [_itch.io_](https://andyrift.itch.io/sparkly-night)<br>
 `Unity` `C#`
-- **Boring Platformer** (`Unity` `C#`)<br>
--> [_itch.io_](https://andyrift.itch.io/boring-platformer)
+- **Boring Platformer** [_itch.io_](https://andyrift.itch.io/boring-platformer)<br>
+`Unity` `C#`
 
 ### 🔌 IoT
 
