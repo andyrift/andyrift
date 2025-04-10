@@ -33,7 +33,7 @@
 
 - **Paper Bird** [_itch.io_](https://andyrift.itch.io/paper-bird) | [_RuStore_](https://apps.rustore.ru/app/ru.andyrift.paperbird)<br>
 `Godot` `GDScript`
-- **Sparkly Night** [GitHub](https://github.com/andyrift/sparkly-night) | [_itch.io_](https://andyrift.itch.io/sparkly-night)<br>
+- **Sparkly Night** [_itch.io_](https://andyrift.itch.io/sparkly-night)<br>
 `Unity` `C#`
 - **Boring Platformer** [_itch.io_](https://andyrift.itch.io/boring-platformer)<br>
 `Unity` `C#`
