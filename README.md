@@ -10,40 +10,35 @@
 
 ### ⚡ CLI
 
-- **Word Counter** (`Rust`)<br>
--> [Repo (GitLab)](https://gitlab.com/andyrift/rs-count)
-
-- **Fuzzy File Opener** (`Rust`)<br>
--> [Repo (GitLab)](https://gitlab.com/andyrift/fuzzy-open)
+- **Word Counter** [GitLab](https://gitlab.com/andyrift/rs-count)<br>
+`Rust`
+- **Fuzzy File Opener** [GitLab](https://gitlab.com/andyrift/fuzzy-open)<br>
+`Rust`
 
 ### 🌐 Web Apps
 
-- **Notes Web API** (`Rust` `Axum` `SQLx` `PostgreSQL`)<br>
--> [Repo (GitHub)](https://github.com/andyrift/rs-notes)
-
-- **Trend Aggregator with chatting** (`React` `Express.js` `ModgoDB` `OAuth`)<br>
--> [Repo (GitHub)](https://github.com/andyrift/lamet)
-
-- **Marketplace** (`JavaScript` `Express.js` `PostgreSQL`)<br>
--> [Repo (GitHub)](https://github.com/andyrift/apple-sause)
+- **Notes Web API** [GitHub](https://github.com/andyrift/rs-notes)<br>
+`Rust` `Axum` `SQLx` `PostgreSQL`
+- **Trend Aggregator with chatting** [GitHub](https://github.com/andyrift/lamet)<br>
+`React` `Express.js` `ModgoDB` `OAuth`
+- **Marketplace** [GitHub](https://github.com/andyrift/apple-sause)<br>
+`JavaScript` `Express.js` `PostgreSQL`
 
 ### 🖥️ Desktop
 
-- **Notion-like Text Editor** (`Vue` `Electron` `TypeScript` `ProseMirror`)<br>
--> [Repo (GitHub)](https://github.com/andyrift/better-text-editor)
+- **Notion-like Text Editor** [GitHub](https://github.com/andyrift/better-text-editor)<br>
+`Vue` `Electron` `TypeScript` `ProseMirror`
 
 ### 🕹️ Games
 
-- **Paper Bird** (`Godot` `GDScript`)<br>
--> [_itch.io_](https://andyrift.itch.io/paper-bird) | [_RuStore_](https://apps.rustore.ru/app/ru.andyrift.paperbird)
-
-- **Sparkly Night** (`Unity` `C#`)<br>
--> [Repo (GitHub)](https://github.com/andyrift/sparkly-night) | [_itch.io_](https://andyrift.itch.io/sparkly-night)
-
+- **Paper Bird** [_itch.io_](https://andyrift.itch.io/paper-bird) | [_RuStore_](https://apps.rustore.ru/app/ru.andyrift.paperbird)<br>
+`Godot` `GDScript`
+- **Sparkly Night** [GitHub](https://github.com/andyrift/sparkly-night) | [_itch.io_](https://andyrift.itch.io/sparkly-night)<br>
+`Unity` `C#`
 - **Boring Platformer** (`Unity` `C#`)<br>
 -> [_itch.io_](https://andyrift.itch.io/boring-platformer)
 
 ### 🔌 IoT
 
-- **Home Lighting System** (`esp32` `C++`)<br>
--> [Repo (GitHub)](https://github.com/andyrift/home-lighting-system)
+- **Home Lighting System** [GitHub](https://github.com/andyrift/home-lighting-system)<br>
+`esp32` `C++`
