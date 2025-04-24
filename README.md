@@ -17,6 +17,8 @@
 
 ### 🌐 Web Apps
 
+- **Notes Light** [andyrift.ru/notes/light/showcase](https://andyrift.ru/notes/light/showcase)<br>
+`Rust` `Axum` `SQLx` `PostgreSQL` `JavaScript` `BEM`
 - **Notes Web API** [GitHub](https://github.com/andyrift/rs-notes)<br>
 `Rust` `Axum` `SQLx` `PostgreSQL`
 - **Trend Aggregator with chatting** [GitHub](https://github.com/andyrift/lamet)<br>
