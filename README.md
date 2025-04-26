@@ -1,12 +1,6 @@
-# 📖 Readme
+🌐 **Personal Website**: [***andyrift.ru***](https://andyrift.ru)
 
-> _My GitLab account: [gitlab.com/andyrift](https://gitlab.com/andyrift)_<br>
-> _My other GitHub account: [github.com/ahrami](https://github.com/ahrami)_<br>
-> Other platforms: [andyrift.itch.io](https://andyrift.itch.io)
-
-**Personal Website**: [***andyrift.ru***](https://andyrift.ru)
-
-# 💻 Projects
+# 💻 Some Projects
 
 ### ⚡ CLI
 
@@ -15,19 +9,10 @@
 - **Fuzzy File Opener** [GitLab](https://gitlab.com/andyrift/fuzzy-open)<br>
 `Rust`
 
-### 🌐 Web Apps
+### 🖥️ Apps
 
 - **Notes Light** [andyrift.ru/notes/light/showcase](https://andyrift.ru/notes/light/showcase)<br>
 `Rust` `Axum` `SQLx` `PostgreSQL` `JavaScript` `BEM`
-- **Notes Web API** [GitHub](https://github.com/andyrift/rs-notes)<br>
-`Rust` `Axum` `SQLx` `PostgreSQL`
-- **Trend Aggregator with chatting** [GitHub](https://github.com/andyrift/lamet)<br>
-`React` `Express.js` `ModgoDB` `OAuth`
-- **Marketplace** [GitHub](https://github.com/andyrift/apple-sause)<br>
-`JavaScript` `Express.js` `PostgreSQL`
-
-### 🖥️ Desktop
-
 - **Notion-like Text Editor** [GitHub](https://github.com/andyrift/better-text-editor)<br>
 `Vue` `Electron` `TypeScript` `ProseMirror`
 
@@ -39,8 +24,3 @@
 `Unity` `C#`
 - **Boring Platformer** [_itch.io_](https://andyrift.itch.io/boring-platformer)<br>
 `Unity` `C#`
-
-### 🔌 IoT
-
-- **Home Lighting System** [GitHub](https://github.com/andyrift/home-lighting-system)<br>
-`esp32` `C++`
