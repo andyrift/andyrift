@@ -1,4 +1,4 @@
-🌐 **Personal Website**: [***andyrift.ru***](https://andyrift.ru)
+🌐 **Personal Website**: [**andyrift.ru**](https://andyrift.ru)
 
 # 💻 Some Projects
 
