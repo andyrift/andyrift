@@ -1,6 +1,6 @@
 # 🌐 **Personal Website**: [**andyrift.ru**](https://andyrift.ru)
 
-💻 Some Projects
+#### 💻 Some Projects
 
 ### ⚡ CLI
 
