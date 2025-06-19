@@ -1,6 +1,6 @@
-🌐 **Personal Website**: [**andyrift.ru**](https://andyrift.ru)
+# 🌐 **Personal Website**: [**andyrift.ru**](https://andyrift.ru)
 
-# 💻 Some Projects
+## 💻 Some Projects
 
 ### ⚡ CLI
 
@@ -11,9 +11,9 @@
 
 ### 🖥️ Apps
 
-- **Notes Light** [andyrift.ru/notes/light/showcase](https://andyrift.ru/notes/light/showcase)<br>
+- **Notes** [notes.andyrift.ru/showcase](https://notes.andyrift.ru/showcase)<br>
 `Rust` `Axum` `SQLx` `PostgreSQL` `JavaScript` `BEM`
-- **Notion-like Text Editor** [GitHub](https://github.com/andyrift/better-text-editor)<br>
+- **Notion-like Text Editor** [GitHub](https://github.com/andyrift/electron-text-editor)<br>
 `Vue` `Electron` `TypeScript` `ProseMirror`
 
 ### 🕹️ Games
