@@ -4,10 +4,8 @@
 
 ### ⚡ CLI
 
-- **Word Counter** [GitLab](https://gitlab.com/andyrift/rs-count)<br>
-`Rust`
-- **Fuzzy File Opener** [GitLab](https://gitlab.com/andyrift/fuzzy-open)<br>
-`Rust`
+- **Word Counter** [GitLab](https://gitlab.com/andyrift/rs-count) `Rust`
+- **Fuzzy File Opener** [GitLab](https://gitlab.com/andyrift/fuzzy-open) `Rust`
 
 ### 🖥️ Apps
 
@@ -18,9 +16,7 @@
 
 ### 🕹️ Games
 
-- **Paper Bird** [_itch.io_](https://andyrift.itch.io/paper-bird) | [_RuStore_](https://apps.rustore.ru/app/ru.andyrift.paperbird)<br>
-`Godot` `GDScript`
-- **Sparkly Night** [_itch.io_](https://andyrift.itch.io/sparkly-night)<br>
-`Unity` `C#`
-- **Boring Platformer** [_itch.io_](https://andyrift.itch.io/boring-platformer)<br>
-`Unity` `C#`
+| Paper Bird | Sparkly Night | Boring Platformer |
+|--|--|--|
+| `Godot` `GDScript` | `Unity` `C#` | `Unity` `C#` |
+| [_itch.io_](https://andyrift.itch.io/paper-bird) | [_RuStore_](https://apps.rustore.ru/app/ru.andyrift.paperbird) [_itch.io_](https://andyrift.itch.io/sparkly-night) | [_itch.io_](https://andyrift.itch.io/boring-platformer) |
