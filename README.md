@@ -4,18 +4,15 @@ Some Projects of mine:
 
 ### ⚡ CLI
 
-| Word Counter | Fuzzy File Opener |
-| -- | -- |
-| [GitLab](https://gitlab.com/andyrift/rs-count) | [GitLab](https://gitlab.com/andyrift/fuzzy-open) |
-| `Rust` | `Rust` |
+- **Word Counter** [GitLab](https://gitlab.com/andyrift/rs-count) `Rust`
+- **Fuzzy File Opener** [GitLab](https://gitlab.com/andyrift/fuzzy-open) `Rust`
 
 ### 🖥️ Apps
 
-| Notes | Notion-like Text Editor |
-| -- | -- |
-| [notes.andyrift.ru/showcase](https://notes.andyrift.ru/showcase) | [GitHub](https://github.com/andyrift/electron-text-editor) |
-| `Rust` `Axum` `SQLx` `PostgreSQL` `JavaScript` `BEM` | `Vue` `Electron` `TypeScript` `ProseMirror` |
-
+- **Notes** [notes.andyrift.ru/showcase](https://notes.andyrift.ru/showcase)<br>
+`Rust` `Axum` `SQLx` `PostgreSQL` `JavaScript` `BEM`
+- **Notion-like Text Editor** [GitHub](https://github.com/andyrift/electron-text-editor)<br>
+`Vue` `Electron` `TypeScript` `ProseMirror`
 
 ### 🕹️ Games
 
