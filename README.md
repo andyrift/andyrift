@@ -2,17 +2,21 @@
 
 Some Projects of mine:
 
-### ⚡ CLI
-
-- **Word Counter** [GitLab](https://gitlab.com/andyrift/rs-count) `Rust`
-- **Fuzzy File Opener** [GitLab](https://gitlab.com/andyrift/fuzzy-open) `Rust`
-
 ### 🖥️ Apps
 
 - **Notes** [notes.andyrift.ru/showcase](https://notes.andyrift.ru/showcase)<br>
 `Rust` `Axum` `SQLx` `PostgreSQL` `JavaScript` `BEM`
 - **Notion-like Text Editor** [GitHub](https://github.com/andyrift/electron-text-editor)<br>
 `Vue` `Electron` `TypeScript` `ProseMirror`
+- **Auth Server (`simple-auth`)** [private]<br>
+`Rust` `Axum` `PostgreSQL`
+- **Static file server with access control** [private]<br>
+`Rust` `Axum` `simple-auth`
+
+### ⚡ CLI
+
+- **Word Counter** [GitLab](https://gitlab.com/andyrift/rs-count) `Rust`
+- **Fuzzy File Opener** [GitLab](https://gitlab.com/andyrift/fuzzy-open) `Rust`
 
 ### 🕹️ Games
 
