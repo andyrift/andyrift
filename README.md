@@ -20,3 +20,7 @@ Some Projects of mine:
 |--|--|--|
 | [_itch.io_](https://andyrift.itch.io/paper-bird) | [_RuStore_](https://apps.rustore.ru/app/ru.andyrift.paperbird); [_itch.io_](https://andyrift.itch.io/sparkly-night) | [_itch.io_](https://andyrift.itch.io/boring-platformer) |
 | `Godot` `GDScript` | `Unity` `C#` | `Unity` `C#` |
+
+## Contacts
+
+- Telegram: [@andy_krmtsv](https://t.me/andy_krmtsv)
